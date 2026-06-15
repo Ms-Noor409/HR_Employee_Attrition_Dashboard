@@ -60,8 +60,7 @@ Attrition Rate = DIVIDE([Attrition Count], COUNT(Employee[EmployeeID]), 0)
 How to Run the Project
 https://github.com/Ms-Noor409/HR_Employee_Attrition_Dashboard.git
 
-Bash
-git clone https://github.com/your-username/HR-Employee-Attrition-Dashboard.git
+
 2. Download and install [Power BI Desktop](https://powerbi.microsoft.com/).
 3. Open the .pbix file included in this repository.
 4. Interact with the dashboard using the slicers for **Department**, **Gender**, and **Marital Status**.
