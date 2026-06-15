@@ -4,6 +4,8 @@ Employee turnover costs organizations time, money, and productivity. This projec
 
 Following the visualization in image_769996.jpg, the dashboard is designed around a Data Storytelling Framework that systematically answers four critical business questions:
 
+<img width="1075" height="565" alt="Screenshot 2026-06-16 025829" src="https://github.com/user-attachments/assets/a62b652f-42fc-426d-836f-15d704a9614f" />
+
 What Happened? (Descriptive Analytics)
 
 Where did the Drop Happen? (Diagnostic Analytics)
