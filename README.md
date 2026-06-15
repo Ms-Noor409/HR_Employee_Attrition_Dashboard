@@ -1,4 +1,4 @@
-#HR Employee Attrition Insights Dashboard
+# HR Employee Attrition Insights Dashboard
 Project Overview
 Employee turnover costs organizations time, money, and productivity. This project features an interactive Power BI Dashboard built to analyze historical HR data, uncover the root causes of employee attrition, and deliver data-driven insights to executive stakeholders.
 
@@ -58,7 +58,7 @@ Attrition Count = CALCULATE(COUNT(Employee[Attrition]), Employee[Attrition] = "Y
 Attrition Rate = DIVIDE([Attrition Count], COUNT(Employee[EmployeeID]), 0)
 
 How to Run the Project
-Clone this repository to your local machine:
+https://github.com/Ms-Noor409/HR_Employee_Attrition_Dashboard.git
 
 Bash
 git clone https://github.com/your-username/HR-Employee-Attrition-Dashboard.git
